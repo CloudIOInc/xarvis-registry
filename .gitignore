@@ -9,3 +9,4 @@
 /.factorypath
 /dependency-reduced-pom.xml
 /.gitignore.swp
+src/main/resources/application.properties
