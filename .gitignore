@@ -10,3 +10,5 @@
 /dependency-reduced-pom.xml
 /.gitignore.swp
 src/main/resources/application.properties
+/logs
+src/main/resources/log4j2-spring.xml
